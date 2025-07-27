@@ -13,7 +13,8 @@ Developed only for GitHub Pages.
 
 ## To Do
 
-- [ ] Performance optimalization for larger sites (40+ posts)
+- [ ] Fix indexing & search JavaScript for larger sites (40+ posts)
+- [ ] Support for images lazy load
 - [ ] Update of outdated components
 - [ ] Better SEO support
    - [ ] Meta Description by default in pages and posts
@@ -21,11 +22,6 @@ Developed only for GitHub Pages.
    - [ ] Better support for social networks like Facebook, Twitter, Meta (post preview, images, etc.)
 - [ ] Support for Web Analytics services as Google Analytics v4, Microsoft Clarity, Meta Pixel
 - [ ] Support for RSS Feed
-
-
-<!-- ### Documentation -->
-
-<!-- [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) -->
 
 ## Copyright
 
