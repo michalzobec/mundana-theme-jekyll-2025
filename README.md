@@ -1,51 +1,32 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Jekyll Theme - Mundana Updated 2025
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+[Live Demo](https://mundana-theme-jekyll-2025.zobecdevtest.cz/) &nbsp; | &nbsp; 
+[Download](https://github.com/michalzobec/mundana-theme-jekyll-2025/archive/master.zip)
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### Documentation
+## About this template
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+This is updated and inovated template of Mundana from WowThemes.net.
 
-### Contribute to Mundana repository
+Developed only for GitHub Pages.
 
-1. In the top-right corner of this page, click **Fork**.
+## To Do
 
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
-
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
-
-3. **Create a branch**: 
-
-   `git checkout -b <my-new-feature-or-fix>`
-
-4. **Make necessary changes and commit those changes**:
-
-   `git add .`
-
-   `git commit -m "new feature or fix"`
-
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+- [ ] Performance optimalization for larger sites (40+ posts)
+- [ ] Update of outdated components
+- [ ] Better SEO support
+   - [ ] Meta Description by default in pages and posts
+   - [ ] Individual title and Meta Description for title page
+   - [ ] Better support for social networks like Facebook, Twitter, Meta (post preview, images, etc.)
 
 
-### Copyright
+<!-- ### Documentation -->
 
-Copyright (C) 2019 WowThemes.net.
+<!-- [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) -->
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+## Copyright
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Copyright (c) 2022 - 2025 Michal ZOBEC. All rights reserved.  
+Portions (c) 2019 WowThemes.net. Original theme Mundana designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
