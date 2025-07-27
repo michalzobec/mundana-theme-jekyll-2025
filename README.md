@@ -29,6 +29,6 @@ Developed only for GitHub Pages.
 
 ## Copyright
 
-Copyright (c) 2022 - 2025 Michal ZOBEC. All rights reserved.  
+Copyright (c) 2022-2025 Michal ZOBEC. All rights reserved.  
 Portions (c) 2019 WowThemes.net. Original theme Mundana designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
