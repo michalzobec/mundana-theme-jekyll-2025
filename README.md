@@ -19,6 +19,8 @@ Developed only for GitHub Pages.
    - [ ] Meta Description by default in pages and posts
    - [ ] Individual title and Meta Description for title page
    - [ ] Better support for social networks like Facebook, Twitter, Meta (post preview, images, etc.)
+- [ ] Support for Web Analytics services as Google Analytics v4, Microsoft Clarity, Meta Pixel
+- [ ] Support for RSS Feed
 
 
 <!-- ### Documentation -->
