@@ -1,4 +1,4 @@
-# Jekyll Theme - Mundana Updated 2025
+# Mundana Updated 2025 (Jekyll Theme)
 
 [Live Demo](https://mundana-theme-jekyll-2025.zobecdevtest.cz/) &nbsp; | &nbsp; 
 [Download](https://github.com/michalzobec/mundana-theme-jekyll-2025/archive/master.zip)
@@ -7,7 +7,7 @@
 
 ## About this template
 
-This is updated and inovated template of Mundana from WowThemes.net.
+This is updated and inovated Mundana Jekyl Theme.
 
 Developed only for GitHub Pages.
 
