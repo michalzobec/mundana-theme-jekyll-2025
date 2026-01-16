@@ -1,0 +1,12 @@
+# robots.txt dev/test template
+# revision: 2025.10.01.0 (2025/10/01)
+# purpose: block access for all robots/crawlers
+
+User-agent: *
+Disallow: /
+
+# robots.txt prod part template
+# User-agent: *
+# Disallow: /cdn-cgi/l/email-protection
+# 
+# Sitemap: /sitemap.xml
