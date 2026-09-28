@@ -1,13 +1,19 @@
 # Site
-name: 'Mundana Jekyll Theme Updated 2025'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-url: 'https://mundana-theme-jekyll-2025.zobecdevtest.cz/'
+name: 'Mundana Jekyll Theme Updated 2026 (Michal ZOBEC)'
+description: 'Mundana is a free Jekyll theme with support of GitHub Pages.'
+url: 'https://mundana-theme-jekyll-2026.zobecdevtest.cz/'
 baseurl: '/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-# disqus: 'demowebsite'
-# email: 'wowthemesnet@gmail.com'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+comments: false
+
+# excerpt separator in articles and xml feed
+excerpt_separator: "<!--more-->"
+feed:
+  excerpt_only: true
+
+# exclude page from index, disallow crawling links
+meta_robots: index, follow
 
 include: ["_pages"]
 permalink: /:title/
@@ -30,8 +36,8 @@ authors:
       email:          websites@zobec.cz
       # twitter:        https://twitter.com/michalzobec
 
-    jane:
-      name:           Jane
+    jana:
+      name:           Jana
       site:           https://zob.ec/michal
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
